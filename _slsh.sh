@@ -11,9 +11,9 @@ echo "_slsh"; echo "༂࿐~ +strange easy world"; echo;
 
 # region function
 
-trap _trap SIGINT
+trap _trap SIGINT;
 function _trap() {
-	exit # exit the app (on next run) pressing <<ctrl><c>>
+	exit; # exit the app (on next run) pressing <<ctrl><c>>
 }
 
 function _math() {
