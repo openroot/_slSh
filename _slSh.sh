@@ -5,7 +5,7 @@
 
 # region welcome
 
-echo "_slsh"; echo "༂࿐~ +strange easy world"; echo;
+echo "_slSh"; echo "༂࿐~ +strange easy world"; echo;
 
 # regionend
 
