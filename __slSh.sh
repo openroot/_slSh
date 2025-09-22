@@ -1,5 +1,5 @@
 #!/bin/bash
-# Name: _slsh.sh
+# Name: _slSh.sh
 # Purpose: sl bash script
 # -----------------------
 
